@@ -3,7 +3,8 @@
 // More User Friendly..UI
 
 #include <stdio.h>
-#define max 4
+#define max 4               //You can change the max-Value
+
 int main() {
     int arr[max];
     int i;
