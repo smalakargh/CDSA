@@ -7,22 +7,22 @@
 ---
 
 ## ✅ Output
- Address of m : 0x7ffcc3ad291c
- Value of m : 29                                                                                              
-                                                                                                              
- Now ab is assigned with the address of m.                                                                    
- Address of pointer ab : 0x7ffcc3ad291c                                                                       
- Content of pointer ab : 29                                                                                   
-                                                                                                              
- The value of m assigned to 34 now.                                                                           
- Address of pointer ab : 0x7ffcc3ad291c                                                                       
- Content of pointer ab : 34                                                                                   
-                                                                                                              
- The pointer variable ab is assigned with the value 7 now.                                                    
- Address of m : 0x7ffcc3ad291c                                                                                
- Value of m : 7 
+     Address of m : 0x7ffcc3ad291c
+     Value of m : 29                                                                                              
 
-```bash
+     Now ab is assigned with the address of m.                                                                    
+     Address of pointer ab : 0x7ffcc3ad291c                                                                       
+     Content of pointer ab : 29                                                                                   
+
+     The value of m assigned to 34 now.                                                                           
+     Address of pointer ab : 0x7ffcc3ad291c                                                                       
+     Content of pointer ab : 34                                                                                   
+
+     The pointer variable ab is assigned with the value 7 now.                                                    
+     Address of m : 0x7ffcc3ad291c                                                                                
+     Value of m : 7 
+
+```c
     // https://github.com/smalakargh
     #include <stdio.h>
 
@@ -68,7 +68,7 @@
     Value of fx: 300.067902
     Value of cht: z
 
-```bash
+```c
     // https://github.com/smalakargh
 #include <stdio.h>
 
@@ -115,7 +115,7 @@ int main() {
     Enter 5 Element: 254
     Largest Element: 556
 
-```bash
+```c
 // https://github.com/smalakargh
 #include <stdio.h>
 #include <stdlib.h>
