@@ -7,7 +7,7 @@
 ---
 
 ## ✅ Output
-Address of m : 0x7ffcc3ad291c
+ Address of m : 0x7ffcc3ad291c
  Value of m : 29                                                                                              
                                                                                                               
  Now ab is assigned with the address of m.                                                                    
@@ -50,23 +50,23 @@ Address of m : 0x7ffcc3ad291c
 ---
 
 ## ✅ Output
-Using &
------------------
-Address of m: 0x7fffba932c78
-Address of fx: 0x7fffba932c70
-Address of cht: 0x7fffba932c68
+    Using &
+    -----------------
+    Address of m: 0x7fffba932c78
+    Address of fx: 0x7fffba932c70
+    Address of cht: 0x7fffba932c68
 
-Using & and *
------------------
-Address of m: 300
-Address of fx: 300.067902
-Address of cht: z
+    Using & and *
+    -----------------
+    Address of m: 300
+    Address of fx: 300.067902
+    Address of cht: z
 
-Using Only Pointer variable
------------------
-Value of m: 300
-Value of fx: 300.067902
-Value of cht: z
+    Using Only Pointer variable
+    -----------------
+    Value of m: 300
+    Value of fx: 300.067902
+    Value of cht: z
 
 ```bash
     // https://github.com/smalakargh
@@ -107,13 +107,13 @@ int main() {
 ---
 
 ## ✅ Output
-Enter No of Elements: 5
-Enter 1 Element: 104
-Enter 2 Element: 23
-Enter 3 Element: 222
-Enter 4 Element: 556
-Enter 5 Element: 254
-Largest Element: 556
+    Enter No of Elements: 5
+    Enter 1 Element: 104
+    Enter 2 Element: 23
+    Enter 3 Element: 222
+    Enter 4 Element: 556
+    Enter 5 Element: 254
+    Largest Element: 556
 
 ```bash
 // https://github.com/smalakargh
