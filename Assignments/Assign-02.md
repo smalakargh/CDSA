@@ -86,30 +86,30 @@ multiplication operation between arr1 and arr2 and display the results.**
 ---
 
 ## ✅ Output
-Enter row = column for 1st Matrix: 2
-Enter [1][1] :8
-Enter [1][2] :5
-Enter [2][1] :6
-Enter [2][2] :1
-Array-1:
-8 5 
-6 1 
-Enter row = column for 2nd Matrix: 2
-Enter [1][1] :4
-Enter [1][2] :5
-Enter [2][1] :6
-Enter [2][2] :7
-Array-2:
-4 5 
-6 7 
-
-Transpose of Array-1:
-8 6 
-5 1 
-
-Multiplication of Array-1 with Array-2:
-62 75 
-30 37 
+    Enter row = column for 1st Matrix: 2
+    Enter [1][1] :8
+    Enter [1][2] :5
+    Enter [2][1] :6
+    Enter [2][2] :1
+    Array-1:
+    8 5 
+    6 1 
+    Enter row = column for 2nd Matrix: 2
+    Enter [1][1] :4
+    Enter [1][2] :5
+    Enter [2][1] :6
+    Enter [2][2] :7
+    Array-2:
+    4 5 
+    6 7 
+    
+    Transpose of Array-1:
+    8 6 
+    5 1 
+    
+    Multiplication of Array-1 with Array-2:
+    62 75 
+    30 37 
 
 ```c
 // https://github.com/smalakargh
